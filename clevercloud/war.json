@@ -8,8 +8,8 @@
       "war": [
          {
             "file": "target/my-app-1.0-SNAPSHOT.war",
-            "context": "/test",
-            "checkMe": "/test/hello/index"
+            "context": "/test-grails",
+            "checkMe": "/test-grails/hello/index"
          }
       ]
    }
